@@ -1,1 +1,2 @@
-Meteor.subscribe('posts');
+// move to router.js
+// Meteor.subscribe('posts');
