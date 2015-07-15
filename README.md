@@ -21,5 +21,6 @@ git pull 테스트
 - branch
  .. $git branch
  .. $git branch [new branch-name]
+ .. $git branch -d [branch-name] : 삭제하기
  .. $git checkout [branch-name]
  .. $git merge [branch-name] -> git push [remote-name] [branch-name]
