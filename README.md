@@ -1,6 +1,8 @@
 # meteormicroscope
 how to use meteor
 
+meteor --port $IP:$PORT
+
 따라하기!
  http://kr.discovermeteor.com/
 
