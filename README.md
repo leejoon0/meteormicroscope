@@ -3,7 +3,7 @@ how to use meteor
 
 meteor --port $IP:$PORT
 
-따라하기!
+따라하기!~
  http://kr.discovermeteor.com/
 
 git pull 테스트
